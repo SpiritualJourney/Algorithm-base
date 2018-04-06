@@ -32,19 +32,19 @@
     <ClCompile Include="Algorithm.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="selection.cpp">
+    <ClCompile Include="sort\bubble.cpp">
       <Filter>源文件\sort</Filter>
     </ClCompile>
-    <ClCompile Include="insertion.cpp">
+    <ClCompile Include="sort\insertion.cpp">
       <Filter>源文件\sort</Filter>
     </ClCompile>
-    <ClCompile Include="bubble.cpp">
+    <ClCompile Include="sort\mergesort.cpp">
       <Filter>源文件\sort</Filter>
     </ClCompile>
-    <ClCompile Include="quicksort.cpp">
+    <ClCompile Include="sort\quicksort.cpp">
       <Filter>源文件\sort</Filter>
     </ClCompile>
-    <ClCompile Include="mergesort.cpp">
+    <ClCompile Include="sort\selection.cpp">
       <Filter>源文件\sort</Filter>
     </ClCompile>
   </ItemGroup>

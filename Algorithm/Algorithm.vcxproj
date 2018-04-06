@@ -152,11 +152,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp" />
-    <ClCompile Include="bubble.cpp" />
-    <ClCompile Include="insertion.cpp" />
-    <ClCompile Include="mergesort.cpp" />
-    <ClCompile Include="quicksort.cpp" />
-    <ClCompile Include="selection.cpp" />
+    <ClCompile Include="sort\bubble.cpp" />
+    <ClCompile Include="sort\insertion.cpp" />
+    <ClCompile Include="sort\mergesort.cpp" />
+    <ClCompile Include="sort\quicksort.cpp" />
+    <ClCompile Include="sort\selection.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
