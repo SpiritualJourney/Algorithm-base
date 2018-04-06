@@ -13,7 +13,17 @@ void merge(int *array,int *tmp,int l,int m,int r) {
 		}
 	}
 }
+/*
+	自顶向下的归并排序算法
 
+	可优化：
+		1，小文件用其他算法处理，如插入。
+		2，取消递归
+
+	稳定性：由基础排序算法决定
+	空间复杂度：O(2N)
+	时间复杂度：
+*/
 
 void mergesort(int *array, int *tmp, int l, int r) {
 	int m = (l + r) / 2;
