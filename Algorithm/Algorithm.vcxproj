@@ -154,6 +154,7 @@
     <ClCompile Include="Algorithm.cpp" />
     <ClCompile Include="bubble.cpp" />
     <ClCompile Include="insertion.cpp" />
+    <ClCompile Include="mergesort.cpp" />
     <ClCompile Include="quicksort.cpp" />
     <ClCompile Include="selection.cpp" />
     <ClCompile Include="stdafx.cpp">

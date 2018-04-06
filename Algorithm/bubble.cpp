@@ -1,5 +1,5 @@
 void bubble(int * array, int l, int r) {
-	r--;
+	
 	for (int i = l; i < r;i++) {
 		for (int j = r;j > i;j--) {
 			if (array[j] < array[j - 1]) {
